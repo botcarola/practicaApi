@@ -1,0 +1,39 @@
+th, td {
+    /* border: 2px solid aquamarine; */
+    padding: 5px
+  }
+  
+  
+  table {
+    width: 75%;
+    border-spacing: 5px;
+    border-collapse: collapse;
+    margin: 50px;
+  }
+  
+  /* 
+  .col-email {
+    width: 700px
+  } */
+  
+  
+  /* tr:nth-child(odd) {
+    background-color: aquamarine;
+  } */
+  
+  tr {
+    border-bottom: 1px solid gray;
+  }
+
+  form{
+      width: 20%;
+      display: flex;
+      flex-direction: column;
+      border: 1px solid black;
+      margin: 50px;
+  }
+  
+  label{
+      padding: 10px;
+      font-size: 20px;
+  }
